@@ -4,6 +4,6 @@
 This repository is a collection of all my solutions to challenges from CodeForces.
 
 It's divided into years to show changes and improvement in my programming skills
-All comments are added after the solution had been found.
+All comments are added after the solution had been found
 
 My CodeForce handle is `Casterra`
